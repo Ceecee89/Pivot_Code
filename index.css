@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+.name-txt:hover {font-size: 48px; color: pink;}
+.header {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    color: yellow;
+    background-color: blueviolet;
+    padding-left: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+.a-tag {
+    color: blue;
+}
