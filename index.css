@@ -1,7 +1,7 @@
 body {
     background-color: aqua;
 }
-.name-txt:hover {font-size: 48px; color: pink;}
+.name-txt:hover {font-size: 48px; color: rgb(192, 255, 208);}
 .header {
     background-color: yellow;
     color: black;
