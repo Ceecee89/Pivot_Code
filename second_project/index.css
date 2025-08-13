@@ -32,4 +32,4 @@ body {background-color: salmon; color: #FFF8E7;}
 
 .section-title {  font-size: 24px; font-weight: bold;}
 
-.section-img {height: 200px; width: 200px; border-radius: 10px;}
+.section-img {height: 200px; width: 200px; border-radius: 10px; margin-top: 20px; margin-bottom: 20px;}
