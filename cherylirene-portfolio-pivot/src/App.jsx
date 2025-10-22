@@ -1,26 +1,10 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-// bring in the code
-//"." means same place
-// "/" means in folder
-import Header from "./components/Header"
-import Card from "./components/Card"
-import Bio from "./components/Bio"
-function App() {
-  //javascript variables
-  const name = "CeeCee";
-  const description = "Coding is fun!!!"
+// creating a component
+function App(){
+  // return html
   return (
-    <>
-      <Header/>
-      <Card
-      nameProps={name} descriptionProps={description}
-      ></Card>
-<Bio></Bio>
-    </>
+    <h1>Task Tracker</h1>
   )
 }
 
-export default App
+//give it permission to leave
+export default App; 
