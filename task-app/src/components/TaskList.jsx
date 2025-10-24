@@ -22,7 +22,6 @@ function TaskItem(props) {
     function toggleCheck() {//only here is connected to the click
         //make isDone equal false
         //isDone = false;
-        setIsDone(false); //isDone = false;
         console.log(isDone);
         console.log(props.title, isDone)
         if (isDone == true) {
